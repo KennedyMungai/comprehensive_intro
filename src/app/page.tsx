@@ -1,3 +1,3 @@
 export default function Home() {
-	return <p>Hello</p>
+	return <p className='flex justify-center items-center h-screen'>Hello</p>
 }
