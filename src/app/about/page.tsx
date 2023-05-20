@@ -3,6 +3,8 @@ import Link from 'next/link'
 type Props = {}
 
 const About = (props: Props) => {
+	throw new Error('Not Today Zurg!!!')
+
 	return (
 		<>
 			<div>About</div>
