@@ -3,7 +3,7 @@ import React from 'react'
 type Props = {}
 
 const Loading = (props: Props) => {
-	return <div>Loading</div>
+	return <h1>Loading...</h1>
 }
 
 export default Loading
