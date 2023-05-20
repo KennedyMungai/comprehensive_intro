@@ -7,7 +7,7 @@ const About = (props: Props) => {
 		<>
 			<div>About</div>
 			<button className='bg-orange-500 rounded-md p-2 m-2'>
-				<Link href='/'>Link To Home Page</Link>
+				<Link href='/'>Go To Home Page</Link>
 			</button>
 		</>
 	)
